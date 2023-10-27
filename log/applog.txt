@@ -1,0 +1,4 @@
+INFO    2023-05-25 16:38:52,122 [main] daos.implementaciones.OdontologoDaoH2  - Nuevo registro creado en H2: Elsa Quito
+INFO    2023-05-25 16:38:52,132 [main] daos.implementaciones.OdontologoDaoH2  - Nuevo registro creado en H2: Esteban Quito
+INFO    2023-05-25 16:38:52,140 [main] daos.implementaciones.OdontologoDaoH2  - Nuevo registro creado en H2: Solomeo Paredes
+DEBUG   2023-05-25 16:38:52,172 [main] daos.implementaciones.OdontologoDaoH2  - Ejecución exitosa del listado
